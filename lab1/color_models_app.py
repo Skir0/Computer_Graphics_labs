@@ -1,3 +1,6 @@
+# ссылка на гитхаб: https://github.com/Skir0/Computer_Graphics_labs
+
+
 import tkinter as tk
 from tkinter import ttk, colorchooser
 import colorsys
