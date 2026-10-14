@@ -1,0 +1,3 @@
+([('ColorModelsApp',
+   '/Users/skiro/PycharmProjects/CG_labs/lab1/dist/ColorModelsApp',
+   'EXECUTABLE')],)
